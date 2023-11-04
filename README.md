@@ -5,3 +5,4 @@
 ## License
 
 * Icon - 絵文字ジェネレーター https://emoji-gen.ninja/
+* [51-modern-default](https://github.com/kintone-samples/plugin-samples/blob/master/stylesheet/51-modern-default.css) - Cybozu.Inc., MIT License
